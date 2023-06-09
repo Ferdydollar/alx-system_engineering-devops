@@ -1,2 +1,2 @@
 #!/bin/bash
-rmkir /tmp/my_first_directory
+rmkdir /tmp/my_first_directory
