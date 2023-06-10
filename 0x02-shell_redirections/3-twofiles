@@ -1,2 +1,2 @@
-echo "Hello, World"
+#!/bin/bash
 cat /etc/passwd /etc/hosts
