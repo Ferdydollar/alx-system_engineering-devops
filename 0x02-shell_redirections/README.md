@@ -12,5 +12,7 @@ find . -type d -not -name '.' | wc -l
 ls -t1 | head
 sort | uniq -u
 grep "root" /etc/passwd
+grep -i "bin" /etc/passwd | wc -1
 grep -iA 3 "root" /etc/passwd
+
 
