@@ -17,5 +17,6 @@ grep -iA 3 "root" /etc/passwd
 grep -i -v "bin" /etc/passwd
 grep '^[:alpha:]' /etc/ssh/sshd_config
 tr -d "Cc"
+rev
 
 
