@@ -6,3 +6,4 @@ printenv
 set
 5-local_variables
 export BEST="School"
+echo $((128 + $TRUEKNOWLEDGE))
