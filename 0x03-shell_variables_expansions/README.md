@@ -12,3 +12,4 @@ echo $(($BREATH**$LOVE))
 echo $((2#$BINARY))
 echo {a..z}{a..z} | tr " " "\n" | grep -v "oo"
 printf %x'\n' $DECIMAL
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
